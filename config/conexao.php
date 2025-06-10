@@ -1,6 +1,6 @@
 <?php
 $host = 'localhost';
-$db = 'login_app';
+$db = 'sistema';
 $user = 'root';
 $pass = '';
 
